@@ -50,7 +50,6 @@
 ## 🛠 사용한 기술 및 도구
 
 - Python (pandas, matplotlib, seaborn)
-- statsmodels, scikit-learn
 - 공공데이터포털 및 KOSIS에서 수집한 통계자료
 
 ---
